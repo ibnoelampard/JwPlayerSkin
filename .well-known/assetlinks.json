@@ -1,0 +1,35 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.fta.rctitv",
+            "sha256_cert_fingerprints": [
+                "48:E3:E9:0F:62:26:C6:DC:C1:3C:AA:89:6B:0D:3D:D0:CF:9A:04:7D:54:1B:2E:05:CC:C1:F6:52:70:A8:02:58"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "web",
+            "site": "https://rctiplus.com"
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.fta.rctitv",
+            "sha256_cert_fingerprints": [
+                "48:E3:E9:0F:62:26:C6:DC:C1:3C:AA:89:6B:0D:3D:D0:CF:9A:04:7D:54:1B:2E:05:CC:C1:F6:52:70:A8:02:58"
+            ]
+        }
+    }
+]
