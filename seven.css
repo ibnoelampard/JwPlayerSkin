@@ -46,8 +46,8 @@
 /* Shrink play button on smaller breakpoints */
 .jwplayer.jw-skin-alaska.jw-state-idle.jw-breakpoint-3 .jw-display-controls .jw-display-icon-container,
 .jwplayer.jw-skin-alaska.jw-state-idle.jw-breakpoint-2 .jw-display-controls .jw-display-icon-container  {
-  height: 60px;
-  width: 60px;
+  height: 40px;
+  width: 40px;
 }
 
 .jwplayer.jw-skin-alaska.jw-state-idle.jw-breakpoint-1 .jw-display-controls .jw-display-icon-container,
