@@ -17,7 +17,7 @@
 
 /* Use this class to set a global background color for all elemnts. */
 .jw-skin-seven .jw-background-color {
-  background: #000;
+  background: #00000000;
 }
 
 /* This is the class that houses all controls. Use this to adjust the appearance of the entire controlbar. */
