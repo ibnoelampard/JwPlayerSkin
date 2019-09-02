@@ -205,12 +205,12 @@ active configuration in the skin block.*/
 
 /* Centers the knob vertically. */
 .jw-skin-seven .jw-slider-horizontal .jw-knob {
-    top: -0.19999999999999998em
+    top: 1em
 }
 
 /* Cetners the timeslider cuepoints vertically. */
 .jw-skin-seven .jw-slider-horizontal .jw-cue {
-    top: -0.04999999999999999em;
+    top: 1em;
     width: .3em;
     height: .3em;
     background-color: #fff;
