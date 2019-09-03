@@ -14,16 +14,18 @@
 .jwplayer.jw-skin-alaska .jw-display-controls .jw-display-icon-container {
   background-color: white;
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .jwplayer.jw-skin-alaska .jw-display-controls .jw-display-icon-container .jw-icon,
 .jwplayer.jw-skin-alaska .jw-display-controls .jw-display-icon-container .jw-icon {
   color: #1E1E1E;
-  width: 60px;
-  height: 60px;
-  padding: 20px;
+  width: 30px;
+  height: 30px;
 }
 
 /* Change play button colors on idle state, handle hover transitions */
@@ -246,16 +248,10 @@
 }
 
 
-.jwplayer.jw-skin-alaska .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen {
+.jwplayer.jw-skin-alaska .jw-display-controls .jw-display-icon-container .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen {
   display: none;
 }
 
-.jwplayer.jw-skin-alaska .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen.jw-off {
+.jwplayer.jw-skin-alaska .jw-display-controls .jw-display-icon-container .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen.jw-off {
   display: none;
-}
-
-.jwplayer.jw-skin-alaska .jw-display-icon-container.jw-display-icon-display.jw-reset.shift {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
