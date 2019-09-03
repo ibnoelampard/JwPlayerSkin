@@ -151,7 +151,7 @@
 }
 
 .jwplayer.jw-skin-alaska .jw-controlbar {
-  background-color: #fff;
+  background-color: transparent;
 }
 
 .jwplayer.jw-skin-alaska .jw-controlbar .jw-button-container .jw-button-color {
@@ -252,10 +252,6 @@
 
 .jwplayer.jw-skin-alaska .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen.jw-off {
   display: none;
-}
-
-.jwplayer.jw-skin-alaska .jw-controlbar {
-  background-color: transparent;
 }
 
 .jwplayer.jw-skin-alaska .jw-display-icon-container.jw-display-icon-display.jw-reset.shift {
