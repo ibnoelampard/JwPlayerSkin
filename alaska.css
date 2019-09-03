@@ -246,11 +246,11 @@
 }
 
 
-.jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen {
+.jwplayer.jw-skin-alaska .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen {
   display: none;
 }
 
-.jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen.jw-off {
+.jwplayer.jw-skin-alaska .jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-icon-fullscreen.jw-off {
   display: none;
 }
 
@@ -258,7 +258,7 @@
   background-color: transparent;
 }
 
-.jw-display-icon-container.jw-display-icon-display.jw-reset.shift {
+.jwplayer.jw-skin-alaska .jw-display-icon-container.jw-display-icon-display.jw-reset.shift {
   display: flex;
   align-items: center;
   justify-content: center;
