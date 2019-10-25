@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+   <vmap:AdBreak breakId="preroll-1" breakType="linear" timeOffset="start">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="1">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_PRE-ROLL&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-3" breakType="nonlinear" timeOffset="3%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="3">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-6" breakType="nonlinear" timeOffset="6%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="6">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-9" breakType="nonlinear" timeOffset="9%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="9">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-12" breakType="nonlinear" timeOffset="12%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="12">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-15" breakType="nonlinear" timeOffset="15%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="15">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-18" breakType="nonlinear" timeOffset="18%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="18">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-21" breakType="nonlinear" timeOffset="21%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="21">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-24" breakType="nonlinear" timeOffset="24%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="24">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-27" breakType="nonlinear" timeOffset="27%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="27">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-30" breakType="nonlinear" timeOffset="30%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="30">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-33" breakType="nonlinear" timeOffset="33%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="33">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-36" breakType="nonlinear" timeOffset="36%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="36">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-39" breakType="nonlinear" timeOffset="39%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="39">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-42" breakType="nonlinear" timeOffset="42%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="42">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-45" breakType="nonlinear" timeOffset="45%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="45">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-48" breakType="nonlinear" timeOffset="48%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="48">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-51" breakType="nonlinear" timeOffset="51%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="51">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-54" breakType="nonlinear" timeOffset="54%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="54">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-57" breakType="nonlinear" timeOffset="57%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="57">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-60" breakType="nonlinear" timeOffset="60%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="60">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-63" breakType="nonlinear" timeOffset="63%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="63">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-66" breakType="nonlinear" timeOffset="66%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="66">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-69" breakType="nonlinear" timeOffset="69%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="69">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-72" breakType="nonlinear" timeOffset="72%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="72">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-75" breakType="nonlinear" timeOffset="75%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="75">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-78" breakType="nonlinear" timeOffset="78%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="78">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-81" breakType="nonlinear" timeOffset="81%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="81">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-84" breakType="nonlinear" timeOffset="84%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="84">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-87" breakType="nonlinear" timeOffset="87%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="87">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-90" breakType="nonlinear" timeOffset="90%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="90">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-93" breakType="nonlinear" timeOffset="93%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="93">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-96" breakType="nonlinear" timeOffset="96%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="96">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+   <vmap:AdBreak breakId="midroll-99" breakType="nonlinear" timeOffset="99%">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="99">
+         <AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/21865661642/PRO_LIVE_OVERLAY&description_url=https%3A%2F%2Frctiplus.com%2F&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=400x300&unviewed_position_start=1&cust_params=logged_in%3Dfalse%26channel_id%3D1program_title%3DCahaya_Terindah%26]]></AdTagURI>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+</vmap:VMAP>
